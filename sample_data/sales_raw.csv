@@ -1,0 +1,11 @@
+region,salesperson,product,units,amount
+West,Alice,Widget A,12,2400
+East,Bob,Widget B,5,900
+West,Carol,Widget C,8,1760
+North,Dan,Widget A,15,3000
+South,Eve,Widget D,3,450
+East,Bob,Widget C,-2,-440
+North,Alice,Widget B,9,1620
+West,Dan,Widget D,20,3000
+South,Carol,Widget A,7,1400
+East,Eve,Widget C,11,2420
