@@ -84,6 +84,7 @@ python make_report.py combined.csv -o report.xlsx --chart amount --title "Annual
 ```
 
 → [Excel/CSV Merger on GitHub](https://github.com/Synth88Labs/excel-tool-merger)
+→ Full guide: [Merge and Report: Automate Your Whole Excel Workflow](https://excelguru.io/tutorials/merge-and-report-automate-your-whole-excel-workflow/)
 
 ## Running the tests
 
