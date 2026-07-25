@@ -13,7 +13,7 @@ Built for the report you run every week or month: *"take this raw data and make 
 presentable."*
 
 > 📖 **New here?** Read the full step-by-step guide:
-> [How to Auto-Generate Formatted Excel Reports with Python](https://excelguru.io/category/tutorials/) on ExcelGuru.io.
+> [How to Auto-Generate Formatted Excel Reports From Raw Data](https://excelguru.io/tutorials/auto-generate-formatted-excel-reports-from-raw-data/) on ExcelGuru.io.
 
 ## Features
 
